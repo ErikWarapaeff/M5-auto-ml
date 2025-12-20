@@ -1,0 +1,14 @@
+# Datasets
+*.csv
+*.zip
+
+# Models and large binaries
+*.joblib
+models/
+
+# Virtual environment
+rapids-simple/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/

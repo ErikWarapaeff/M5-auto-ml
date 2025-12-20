@@ -1,0 +1,33 @@
+# M5 Forecasting GPU EDA (RAPIDS 25.12)
+# Python 3.11 + CUDA 12.9
+
+cudf-cu12==25.12.*
+cuml-cu12==25.12.*
+cupy-cuda12x>=13.6.0
+
+pandas>=2.0,<2.4
+numpy>=1.23,<3.0
+scipy>=1.11.0
+
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+jupyterlab-widgets
+
+scikit-learn>=1.4.0
+pathlib
+tqdm>=4.65.0
+
+pyarrow
+lightautoml
+lightgbm
+xgboost
+catboost
+scikit-learn
+pandas
+numpy
+
+--extra-index-url https://pypi.nvidia.com
