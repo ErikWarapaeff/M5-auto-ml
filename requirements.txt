@@ -29,5 +29,5 @@ catboost
 scikit-learn
 pandas
 numpy
-
+optuna
 --extra-index-url https://pypi.nvidia.com
